@@ -1,0 +1,9 @@
+name: AnimatedTablist
+main: me.T0X1C.AnimatedTablist.Main
+version: 1.6
+author: T0X1C
+softdepend: [PlaceholderAPI]
+
+commands:
+    animtablist:
+        description: The main command for this plugin
